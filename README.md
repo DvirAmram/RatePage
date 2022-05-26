@@ -1,5 +1,5 @@
 # RatePage
-Second assignment of Advanced Programming 2 of Course at BIU.
+Second assignment of Course - Advanced Programming 2 of at BIU.
 
 <br>
 
