@@ -3,7 +3,7 @@ Second assignment of Advanced Programming 2 of Course at BIU.
 
 <br>
 
-The PageRate is running on localhost:7215
+The PageRate is running on localhost:7215.
 
 <br>
 
